@@ -1,0 +1,6 @@
+c:\users\thomg_000\documents\visual studio 2013\Projects\FirstTestApp\bin\Debug\FirstTestApp.exe.config
+c:\users\thomg_000\documents\visual studio 2013\Projects\FirstTestApp\bin\Debug\FirstTestApp.exe
+c:\users\thomg_000\documents\visual studio 2013\Projects\FirstTestApp\bin\Debug\FirstTestApp.pdb
+c:\users\thomg_000\documents\visual studio 2013\Projects\FirstTestApp\obj\Debug\FirstTestApp.csprojResolveAssemblyReference.cache
+c:\users\thomg_000\documents\visual studio 2013\Projects\FirstTestApp\obj\Debug\FirstTestApp.exe
+c:\users\thomg_000\documents\visual studio 2013\Projects\FirstTestApp\obj\Debug\FirstTestApp.pdb
